@@ -1,0 +1,5 @@
+node_modules
+mongoData
+credentials.json
+build
+.env
